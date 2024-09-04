@@ -1,3 +1,3 @@
 console.log("yet another log")
-console.log("Hello palak!!");
+console.log("Hello palak");
 
